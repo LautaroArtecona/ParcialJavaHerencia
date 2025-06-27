@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">En este repositorio van a poder encontrar tanto el parcial resuleto, como el proyecto base sin resolver. Los conceptos evaluados hasta este momento fueron:  Correcta implementación de constructores.<br>Visibilidad en Herencia.<br>Aplicación adecuada de los conceptos asociados a la POO: Herencia, Polimorfismo, Composición y Agregación en Java.</p>
+<p align="left">En este repositorio van a poder encontrar tanto el parcial resuleto, como el proyecto base sin resolver.</p>
 
 ###
 
